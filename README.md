@@ -14,4 +14,4 @@
 - Estadísticas post-carrera.
 
 ---
-Creado por [Jose David Ordoñez Lima] - [Marzo 2025]
+Creado por Jose David Ordoñez Lima - Marzo 2025
